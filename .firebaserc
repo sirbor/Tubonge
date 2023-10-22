@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ac-messenger-p",
+    "prod": "ac-messenger-p"
+  },
+  "targets": {},
+  "etags": {}
+}
