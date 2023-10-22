@@ -1,4 +1,4 @@
-# AC Messenger
+# Tubonge
 
 A Full Stack Chat Application using React and Firebase
 
